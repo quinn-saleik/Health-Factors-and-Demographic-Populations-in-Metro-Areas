@@ -3,3 +3,6 @@ This exploratory study utilizes Big Cities Health Coalition data from top metro 
  
 
 Further, the study’s analysis incorporates population-specific segregation indices provided in the dataset to determine segregation measures’ correlation with categories and subcategories of health risks. By visualizing and statistically interpreting these results, one derives timely implications surrounding societal and environmental health risks in contemporary urban settings.
+
+
+Source code includes data cleaning and preparation, permutation methods, interactive visualizations, and general statistical analysis
